@@ -12,7 +12,7 @@ Este projeto foi inspirado e adaptado do [Augmented Reality Sandbox](https://ars
 
 Ele foi portado para o openFrameworks com **suporte multiplataforma (Linux/MacOS/Windows)**, uma **interface simples** e um **procedimento de calibração robusto e fácil**, por [Thomas Wolf](https://thomwolf.io) e posteriormente modificado e expandido com alguns jogos por [Rasmus R. Paulsen](http://people.compute.dtu.dk/rapa).
 
-![Animação de uma Magic Sandbox](./art/animated-box.gif)
+---
 
 Magic Sand foi desenvolvido com o objetivo específico de **simplificar o uso de uma caixa de areia de realidade aumentada em ambientes domésticos/familiares**:
 - Funciona em um notebook ou computador doméstico intermediário (Windows / Mac OS X / Linux, requisitos mínimos de GPU).
